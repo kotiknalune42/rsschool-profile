@@ -1,4 +1,4 @@
 # rsschool-profile
 
-Ekaterina Raylyan
+Ekaterina Raylyan <br>
 HTML CSS Basics: https://www.codecademy.com/users/kotiknalune/achievements
